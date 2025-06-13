@@ -44,7 +44,7 @@ This project deploys requested resources in Azure using Terraform which are acce
 
 ## Monitoring & Logging
 
-- Log Analytics will capture diagnostics for Synapse operations.
+- Log Analytics will capture diagnostics.
 - Auditing enabled on SQL server.
 - Alerts via Azure Monitor 
 
@@ -63,6 +63,7 @@ This project deploys requested resources in Azure using Terraform which are acce
 
 # Clone the repository
 git clone https://github.com/KritiS/terraform-azure-synapse-iac
+
 cd terraform-azure-synapse-iac
 
 # Initialize Terraform
