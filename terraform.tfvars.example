@@ -1,0 +1,18 @@
+# General
+resource_group_name = "rg-synapse-secure-demo"
+location            = "East US"
+
+# Networking
+
+# Key Vault
+
+# Storage
+
+
+# Azure SQL
+
+
+# Synapse
+
+
+# Log Analytics

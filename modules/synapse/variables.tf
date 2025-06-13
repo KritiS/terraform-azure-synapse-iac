@@ -1,0 +1,9 @@
+variable "location" {}
+variable "resource_group_name" {}
+variable "synapse_workspace_name" {}
+variable "sql_admin_login" {}
+variable "sql_password" {}
+variable "storage_account_name" {}
+variable "file_system_name" {}
+variable "storage_data_lake_gen2_filesystem_id" {}
+variable "synapse_subnet_id" {}
